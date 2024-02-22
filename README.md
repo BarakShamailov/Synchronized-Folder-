@@ -14,3 +14,12 @@ The app's capabilities are:
 * Deleting files or folders.
 * Navigating between subfolders and parent folders.
 * Moving folders and files from one folder to another.
+
+## Installation instructions:
+1. First, create a new project in the IDE (the IDE I worked with is PyCharm). Then, copy the contents of the src folder from the ZIP to the new project opened in the IDE.
+2. Now, install an external library named PIL using the terminal with the command -
+pip install pillow.
+3. After installing the library, you can run the server.py file that runs the server.
+And then also the client.py application.
+
+
